@@ -13,9 +13,7 @@ class MyWindow : Window() {
     }
 
     override fun onDisplay() {
-        println("测试")
-        println("测试")
-        println("测试")
+
     }
 
     override fun onKeyPressed(event: KeyEvent) {
